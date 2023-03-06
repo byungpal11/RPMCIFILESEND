@@ -3,7 +3,6 @@ package com.doro.itf.control;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
 import com.doro.itf.Files.SendData;
 import com.doro.itf.log.LogMgr;
 import com.doro.itf.txt.Makesendfile;
@@ -19,6 +18,7 @@ public class Service extends Thread {
 	public Service() {
 
 		log = LogMgr.getInstance();
+
 
 	}
 
@@ -41,12 +41,12 @@ public class Service extends Thread {
 		SimpleDateFormat fourteen_format = new SimpleDateFormat("HHmmss");
 		String HOUR = fourteen_format.format(date.getTime());
 
-		// if (sd == null) {
+		if (sd == null) {
 
-		// 	sd = new SendData(1);
-		// 	sd.dostart();
-		// 	System.out.println("m_start");
-		// }
+			sd = new SendData(1);
+			sd.dostart();
+			System.out.println("m_start");
+		}
 		
 		if (HOUR.equals("175000")) {
 			mk1 = new Makesendfile(1);

@@ -144,13 +144,15 @@ public class SendData extends Thread {
 				break;
 
 			case m_Senddata:
+			  
 				String Senddata = "";
 				Senddata = SenddataList.get(senddatacount).toString();
 				result = Socketc.DataSend(Senddata, senddatacount);
 				if (senddatacount == SenddataList.size() - 1) {
 					String str = SenddataList.get(senddatacount).toString().substring(0, 140);
-					log.WriteLog("SendDataHead" + str, true);
+					log.WriteLog("SendDataHead=" + str, true);
 				}
+			
 				if (result == 1) {
 					senddatacount++;
 					m_currentStep = STEP.m_ReqWait;
@@ -163,10 +165,11 @@ public class SendData extends Thread {
 			case m_ReqWait:
 				m_currentStep = STEP.m_getReqdata;
 				break;
+
 			case m_getReqdata:
-
+		
 				result = Socketc.ReqData(SenddataList.size());
-
+			
 				if (result == 1) {
 					m_currentStep = STEP.m_Senddata;
 
@@ -177,6 +180,7 @@ public class SendData extends Thread {
 				} else {
 					m_currentStep = STEP.m_SendError;
 				}
+
 				break;
 
 			case m_SenddataSuccess:
@@ -185,7 +189,8 @@ public class SendData extends Thread {
 				Ic_Code = Filect.getIC_CODE(Filename);
 				log.WriteLog("[" + Ic_Code + "]" + "send Ok!", true);
 				Socketc.socketclose();
-				m_currentStep = STEP.m_SendfileDel;
+				//m_currentStep = STEP.m_SendfileDel;  /*테스트시*/
+				m_currentStep = STEP.m_FinishSendfile;
 				break;
 
 			case m_SendfileDel:
@@ -209,8 +214,7 @@ public class SendData extends Thread {
 				Ic_Code = Filect.getIC_CODE(Filename);
 				log.WriteLog("[" + Ic_Code + "]" + "data send fail!", true);
 				Socketc.socketclose();
-				// stopThread();
-				m_currentStep = STEP.m_nextfilesend;
+				m_currentStep = STEP.m_FinishSendfile;
 				// m_currentStep = STEP.m_SendfileDel;
 				break;
 

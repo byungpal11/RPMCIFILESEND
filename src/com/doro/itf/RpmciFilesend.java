@@ -17,7 +17,7 @@ public class RpmciFilesend {
 
 	public void go() throws IOException {
 		WatchDog dr = new WatchDog();
-		dr.run();
+		dr.doStart();
 
 	}
 

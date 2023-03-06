@@ -1,0 +1,5 @@
+[2023-03-06-23:29:32]:NOT PROCESSING 
+[2023-03-06-23:29:32]:SERVICE START
+[2023-03-06-23:29:33]:Start File Data Send!
+[2023-03-06-23:29:33]:DB Connection Fail : java.sql.SQLException: ORA-28040: 일치하는 인증 프로토콜 없음
+

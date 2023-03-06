@@ -1,0 +1,488 @@
+[2023-02-21-20:57:11]:NOT PROCESSING 
+[2023-02-21-20:57:11]:SERVICE START
+[2023-02-21-20:57:37]:NOT PROCESSING 
+[2023-02-21-20:57:37]:SERVICE START
+[2023-02-21-20:57:38]:Start File Data Send!
+[2023-02-21-20:57:39]:Database Connetion Success.
+[2023-02-21-20:57:39]:IPADDR READ SUCCESS!
+[2023-02-21-20:57:39]:DB disconnetcion Success!
+[2023-02-21-20:57:39]:[348]File Search complete
+[2023-02-21-20:57:40]:[0011]Send data Format complete
+[2023-02-21-20:57:40]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:40]:[0011]send start!
+[2023-02-21-20:57:40]:[0011]data send fail!
+[2023-02-21-20:57:40]:Socket Clsoed!
+[2023-02-21-20:57:40]:[0013]Send data Format complete
+[2023-02-21-20:57:40]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:40]:[0013]send start!
+[2023-02-21-20:57:40]:[0013]data send fail!
+[2023-02-21-20:57:40]:Socket Clsoed!
+[2023-02-21-20:57:40]:[0053]Send data Format complete
+[2023-02-21-20:57:40]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:40]:[0053]send start!
+[2023-02-21-20:57:40]:[0053]data send fail!
+[2023-02-21-20:57:40]:Socket Clsoed!
+[2023-02-21-20:57:40]:[0057]Send data Format complete
+[2023-02-21-20:57:40]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:40]:[0057]send start!
+[2023-02-21-20:57:40]:[0057]data send fail!
+[2023-02-21-20:57:40]:Socket Clsoed!
+[2023-02-21-20:57:40]:[0061]Send data Format complete
+[2023-02-21-20:57:40]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:40]:[0061]send start!
+[2023-02-21-20:57:40]:[0061]data send fail!
+[2023-02-21-20:57:40]:Socket Clsoed!
+[2023-02-21-20:57:40]:[0062]Send data Format complete
+[2023-02-21-20:57:40]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:40]:[0062]send start!
+[2023-02-21-20:57:40]:[0062]data send fail!
+[2023-02-21-20:57:40]:Socket Clsoed!
+[2023-02-21-20:57:41]:[0063]Send data Format complete
+[2023-02-21-20:57:41]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:41]:[0063]send start!
+[2023-02-21-20:57:41]:[0063]data send fail!
+[2023-02-21-20:57:41]:Socket Clsoed!
+[2023-02-21-20:57:41]:[0064]Send data Format complete
+[2023-02-21-20:57:41]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:41]:[0064]send start!
+[2023-02-21-20:57:41]:[0064]data send fail!
+[2023-02-21-20:57:41]:Socket Clsoed!
+[2023-02-21-20:57:41]:[0065]Send data Format complete
+[2023-02-21-20:57:41]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:41]:[0065]send start!
+[2023-02-21-20:57:41]:[0065]data send fail!
+[2023-02-21-20:57:41]:Socket Clsoed!
+[2023-02-21-20:57:41]:[0066]Send data Format complete
+[2023-02-21-20:57:41]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:41]:[0066]send start!
+[2023-02-21-20:57:41]:[0066]data send fail!
+[2023-02-21-20:57:41]:Socket Clsoed!
+[2023-02-21-20:57:41]:[0067]Send data Format complete
+[2023-02-21-20:57:41]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:41]:[0067]send start!
+[2023-02-21-20:57:41]:[0067]data send fail!
+[2023-02-21-20:57:41]:Socket Clsoed!
+[2023-02-21-20:57:41]:[0068]Send data Format complete
+[2023-02-21-20:57:41]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:41]:[0068]send start!
+[2023-02-21-20:57:41]:[0068]data send fail!
+[2023-02-21-20:57:41]:Socket Clsoed!
+[2023-02-21-20:57:41]:[0101]Send data Format complete
+[2023-02-21-20:57:41]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:41]:[0101]send start!
+[2023-02-21-20:57:41]:[0101]data send fail!
+[2023-02-21-20:57:41]:Socket Clsoed!
+[2023-02-21-20:57:41]:[0102]Send data Format complete
+[2023-02-21-20:57:41]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:41]:[0102]send start!
+[2023-02-21-20:57:42]:[0102]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0103]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0103]send start!
+[2023-02-21-20:57:42]:[0103]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0104]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0104]send start!
+[2023-02-21-20:57:42]:[0104]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0105]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0105]send start!
+[2023-02-21-20:57:42]:[0105]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0106]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0106]send start!
+[2023-02-21-20:57:42]:[0106]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0107]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0107]send start!
+[2023-02-21-20:57:42]:[0107]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0108]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0108]send start!
+[2023-02-21-20:57:42]:[0108]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0109]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0109]send start!
+[2023-02-21-20:57:42]:[0109]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0110]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0110]send start!
+[2023-02-21-20:57:42]:[0110]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:42]:[0111]Send data Format complete
+[2023-02-21-20:57:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:42]:[0111]send start!
+[2023-02-21-20:57:42]:[0111]data send fail!
+[2023-02-21-20:57:42]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0112]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0112]send start!
+[2023-02-21-20:57:43]:[0112]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0113]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0113]send start!
+[2023-02-21-20:57:43]:[0113]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0114]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0114]send start!
+[2023-02-21-20:57:43]:[0114]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0115]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0115]send start!
+[2023-02-21-20:57:43]:[0115]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0116]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0116]send start!
+[2023-02-21-20:57:43]:[0116]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0117]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0117]send start!
+[2023-02-21-20:57:43]:[0117]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0118]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0118]send start!
+[2023-02-21-20:57:43]:[0118]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0119]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0119]send start!
+[2023-02-21-20:57:43]:[0119]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0120]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0120]send start!
+[2023-02-21-20:57:43]:[0120]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0121]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0121]send start!
+[2023-02-21-20:57:43]:[0121]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0122]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0122]send start!
+[2023-02-21-20:57:43]:[0122]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0123]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0123]send start!
+[2023-02-21-20:57:43]:[0123]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0124]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0124]send start!
+[2023-02-21-20:57:43]:[0124]data send fail!
+[2023-02-21-20:57:43]:Socket Clsoed!
+[2023-02-21-20:57:43]:[0125]Send data Format complete
+[2023-02-21-20:57:43]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:43]:[0125]send start!
+[2023-02-21-20:57:44]:[0125]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0126]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0126]send start!
+[2023-02-21-20:57:44]:[0126]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0127]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0127]send start!
+[2023-02-21-20:57:44]:[0127]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0128]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0128]send start!
+[2023-02-21-20:57:44]:[0128]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0129]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0129]send start!
+[2023-02-21-20:57:44]:[0129]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0130]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0130]send start!
+[2023-02-21-20:57:44]:[0130]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0131]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0131]send start!
+[2023-02-21-20:57:44]:[0131]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0132]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0132]send start!
+[2023-02-21-20:57:44]:[0132]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0133]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0133]send start!
+[2023-02-21-20:57:44]:[0133]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0134]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0134]send start!
+[2023-02-21-20:57:44]:[0134]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0135]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0135]send start!
+[2023-02-21-20:57:44]:[0135]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0136]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0136]send start!
+[2023-02-21-20:57:44]:[0136]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:57:44]:[0137]Send data Format complete
+[2023-02-21-20:57:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:57:44]:[0137]send start!
+[2023-02-21-20:57:44]:[0137]data send fail!
+[2023-02-21-20:57:44]:Socket Clsoed!
+[2023-02-21-20:58:59]:NOT PROCESSING 
+[2023-02-21-20:58:59]:SERVICE START
+[2023-02-21-20:59:00]:Start File Data Send!
+[2023-02-21-20:59:00]:Database Connetion Success.
+[2023-02-21-20:59:00]:IPADDR READ SUCCESS!
+[2023-02-21-20:59:00]:DB disconnetcion Success!
+[2023-02-21-20:59:00]:[348]File Search complete
+[2023-02-21-20:59:01]:[0011]Send data Format complete
+[2023-02-21-20:59:01]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:59:01]:[0011]send start!
+[2023-02-21-20:59:01]:[0011]data send fail!
+[2023-02-21-20:59:01]:Socket Clsoed!
+[2023-02-21-20:59:01]:File Data Send complete!
+[2023-02-21-20:59:49]:NOT PROCESSING 
+[2023-02-21-20:59:49]:SERVICE START
+[2023-02-21-20:59:50]:Start File Data Send!
+[2023-02-21-20:59:51]:Database Connetion Success.
+[2023-02-21-20:59:51]:IPADDR READ SUCCESS!
+[2023-02-21-20:59:51]:DB disconnetcion Success!
+[2023-02-21-20:59:51]:[348]File Search complete
+[2023-02-21-20:59:51]:[0011]Send data Format complete
+[2023-02-21-20:59:51]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-20:59:51]:[0011]send start!
+[2023-02-21-20:59:51]:[0011]data send fail!
+[2023-02-21-20:59:51]:Socket Clsoed!
+[2023-02-21-20:59:51]:File Data Send complete!
+[2023-02-21-21:00:39]:NOT PROCESSING 
+[2023-02-21-21:00:39]:SERVICE START
+[2023-02-21-21:00:40]:Start File Data Send!
+[2023-02-21-21:00:41]:Database Connetion Success.
+[2023-02-21-21:00:41]:IPADDR READ SUCCESS!
+[2023-02-21-21:00:41]:DB disconnetcion Success!
+[2023-02-21-21:00:41]:[348]File Search complete
+[2023-02-21-21:00:41]:[0011]Send data Format complete
+[2023-02-21-21:00:41]:java.net.ConnectException: Connection refused: no further information
+[2023-02-21-21:00:41]:[0011]data send fail!
+[2023-02-21-21:00:41]:Socket Clsoed!
+[2023-02-21-21:00:41]:File Data Send complete!
+[2023-02-21-21:00:56]:NOT PROCESSING 
+[2023-02-21-21:00:56]:SERVICE START
+[2023-02-21-21:00:57]:Start File Data Send!
+[2023-02-21-21:00:57]:Database Connetion Success.
+[2023-02-21-21:00:58]:IPADDR READ SUCCESS!
+[2023-02-21-21:00:58]:DB disconnetcion Success!
+[2023-02-21-21:00:58]:[348]File Search complete
+[2023-02-21-21:00:58]:[0011]Send data Format complete
+[2023-02-21-21:00:58]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:00:58]:[0011]send start!
+[2023-02-21-21:01:49]:NOT PROCESSING 
+[2023-02-21-21:01:49]:SERVICE START
+[2023-02-21-21:01:50]:Start File Data Send!
+[2023-02-21-21:01:51]:Database Connetion Success.
+[2023-02-21-21:01:51]:IPADDR READ SUCCESS!
+[2023-02-21-21:01:51]:DB disconnetcion Success!
+[2023-02-21-21:01:51]:[348]File Search complete
+[2023-02-21-21:01:51]:[0011]Send data Format complete
+[2023-02-21-21:01:51]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:01:51]:[0011]send start!
+[2023-02-21-21:02:03]:NOT PROCESSING 
+[2023-02-21-21:02:03]:SERVICE START
+[2023-02-21-21:02:04]:Start File Data Send!
+[2023-02-21-21:02:04]:Database Connetion Success.
+[2023-02-21-21:02:04]:IPADDR READ SUCCESS!
+[2023-02-21-21:02:04]:DB disconnetcion Success!
+[2023-02-21-21:02:04]:[348]File Search complete
+[2023-02-21-21:02:05]:[0011]Send data Format complete
+[2023-02-21-21:02:05]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:02:05]:[0011]send start!
+[2023-02-21-21:02:42]:NOT PROCESSING 
+[2023-02-21-21:02:42]:SERVICE START
+[2023-02-21-21:02:43]:Start File Data Send!
+[2023-02-21-21:02:44]:Database Connetion Success.
+[2023-02-21-21:02:44]:IPADDR READ SUCCESS!
+[2023-02-21-21:02:44]:DB disconnetcion Success!
+[2023-02-21-21:02:44]:[348]File Search complete
+[2023-02-21-21:02:44]:[0011]Send data Format complete
+[2023-02-21-21:02:44]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:02:44]:[0011]send start!
+[2023-02-21-21:04:18]:NOT PROCESSING 
+[2023-02-21-21:04:18]:SERVICE START
+[2023-02-21-21:04:19]:Start File Data Send!
+[2023-02-21-21:04:20]:Database Connetion Success.
+[2023-02-21-21:04:20]:IPADDR READ SUCCESS!
+[2023-02-21-21:04:20]:DB disconnetcion Success!
+[2023-02-21-21:04:20]:[348]File Search complete
+[2023-02-21-21:04:20]:[0011]Send data Format complete
+[2023-02-21-21:04:20]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:04:20]:[0011]send start!
+[2023-02-21-21:04:58]:NOT PROCESSING 
+[2023-02-21-21:04:58]:SERVICE START
+[2023-02-21-21:04:59]:Start File Data Send!
+[2023-02-21-21:05:00]:Database Connetion Success.
+[2023-02-21-21:05:00]:IPADDR READ SUCCESS!
+[2023-02-21-21:05:00]:DB disconnetcion Success!
+[2023-02-21-21:05:00]:[348]File Search complete
+[2023-02-21-21:05:00]:[0011]Send data Format complete
+[2023-02-21-21:05:00]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:05:00]:[0011]send start!
+[2023-02-21-21:05:12]:NOT PROCESSING 
+[2023-02-21-21:05:12]:SERVICE START
+[2023-02-21-21:05:13]:Start File Data Send!
+[2023-02-21-21:05:13]:Database Connetion Success.
+[2023-02-21-21:05:14]:IPADDR READ SUCCESS!
+[2023-02-21-21:05:14]:DB disconnetcion Success!
+[2023-02-21-21:05:14]:[348]File Search complete
+[2023-02-21-21:05:14]:[0011]Send data Format complete
+[2023-02-21-21:05:14]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:05:14]:[0011]send start!
+[2023-02-21-21:06:17]:NOT PROCESSING 
+[2023-02-21-21:06:17]:SERVICE START
+[2023-02-21-21:06:18]:Start File Data Send!
+[2023-02-21-21:06:18]:Database Connetion Success.
+[2023-02-21-21:06:19]:IPADDR READ SUCCESS!
+[2023-02-21-21:06:19]:DB disconnetcion Success!
+[2023-02-21-21:06:19]:[348]File Search complete
+[2023-02-21-21:06:19]:[0011]Send data Format complete
+[2023-02-21-21:06:19]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:06:19]:[0011]send start!
+[2023-02-21-21:07:05]:NOT PROCESSING 
+[2023-02-21-21:07:05]:SERVICE START
+[2023-02-21-21:07:06]:Start File Data Send!
+[2023-02-21-21:07:07]:Database Connetion Success.
+[2023-02-21-21:07:07]:IPADDR READ SUCCESS!
+[2023-02-21-21:07:07]:DB disconnetcion Success!
+[2023-02-21-21:07:07]:[348]File Search complete
+[2023-02-21-21:07:07]:[0011]Send data Format complete
+[2023-02-21-21:07:07]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:07:07]:[0011]send start!
+[2023-02-21-21:08:33]:NOT PROCESSING 
+[2023-02-21-21:08:33]:SERVICE START
+[2023-02-21-21:08:34]:Start File Data Send!
+[2023-02-21-21:08:35]:Database Connetion Success.
+[2023-02-21-21:08:35]:IPADDR READ SUCCESS!
+[2023-02-21-21:08:35]:DB disconnetcion Success!
+[2023-02-21-21:08:35]:[348]File Search complete
+[2023-02-21-21:08:35]:[0011]Send data Format complete
+[2023-02-21-21:08:35]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:08:35]:[0011]send start!
+[2023-02-21-21:09:15]:NOT PROCESSING 
+[2023-02-21-21:09:15]:SERVICE START
+[2023-02-21-21:09:16]:Start File Data Send!
+[2023-02-21-21:09:17]:Database Connetion Success.
+[2023-02-21-21:09:17]:IPADDR READ SUCCESS!
+[2023-02-21-21:09:17]:DB disconnetcion Success!
+[2023-02-21-21:09:17]:[348]File Search complete
+[2023-02-21-21:09:17]:[0011]Send data Format complete
+[2023-02-21-21:09:17]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:09:17]:[0011]send start!
+[2023-02-21-21:09:59]:NOT PROCESSING 
+[2023-02-21-21:09:59]:SERVICE START
+[2023-02-21-21:10:00]:Start File Data Send!
+[2023-02-21-21:10:01]:Database Connetion Success.
+[2023-02-21-21:10:01]:IPADDR READ SUCCESS!
+[2023-02-21-21:10:01]:DB disconnetcion Success!
+[2023-02-21-21:10:01]:[348]File Search complete
+[2023-02-21-21:10:01]:[0011]Send data Format complete
+[2023-02-21-21:10:01]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:10:01]:[0011]send start!
+[2023-02-21-21:10:30]:[0011]data send fail!
+[2023-02-21-21:10:30]:Socket Clsoed!
+[2023-02-21-21:10:30]:File Data Send complete!
+[2023-02-21-21:11:05]:NOT PROCESSING 
+[2023-02-21-21:11:05]:SERVICE START
+[2023-02-21-21:11:06]:Start File Data Send!
+[2023-02-21-21:11:07]:Database Connetion Success.
+[2023-02-21-21:11:07]:IPADDR READ SUCCESS!
+[2023-02-21-21:11:07]:DB disconnetcion Success!
+[2023-02-21-21:11:07]:[348]File Search complete
+[2023-02-21-21:11:07]:[0011]Send data Format complete
+[2023-02-21-21:11:07]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:11:07]:[0011]send start!
+[2023-02-21-21:12:51]:NOT PROCESSING 
+[2023-02-21-21:12:51]:SERVICE START
+[2023-02-21-21:12:52]:Start File Data Send!
+[2023-02-21-21:12:53]:Database Connetion Success.
+[2023-02-21-21:12:53]:IPADDR READ SUCCESS!
+[2023-02-21-21:12:53]:DB disconnetcion Success!
+[2023-02-21-21:12:53]:[348]File Search complete
+[2023-02-21-21:12:53]:[0011]Send data Format complete
+[2023-02-21-21:12:53]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:12:53]:[0011]send start!
+[2023-02-21-21:13:30]:NOT PROCESSING 
+[2023-02-21-21:13:30]:SERVICE START
+[2023-02-21-21:13:31]:Start File Data Send!
+[2023-02-21-21:13:32]:Database Connetion Success.
+[2023-02-21-21:13:32]:IPADDR READ SUCCESS!
+[2023-02-21-21:13:32]:DB disconnetcion Success!
+[2023-02-21-21:13:32]:[348]File Search complete
+[2023-02-21-21:13:32]:[0011]Send data Format complete
+[2023-02-21-21:13:32]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:13:32]:[0011]send start!
+[2023-02-21-21:15:38]:NOT PROCESSING 
+[2023-02-21-21:15:38]:SERVICE START
+[2023-02-21-21:15:39]:Start File Data Send!
+[2023-02-21-21:15:40]:Database Connetion Success.
+[2023-02-21-21:15:40]:IPADDR READ SUCCESS!
+[2023-02-21-21:15:40]:DB disconnetcion Success!
+[2023-02-21-21:15:40]:[348]File Search complete
+[2023-02-21-21:15:40]:[0011]Send data Format complete
+[2023-02-21-21:15:40]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:15:40]:[0011]send start!
+[2023-02-21-21:17:11]:[0011]data send fail!
+[2023-02-21-21:17:11]:Socket Clsoed!
+[2023-02-21-21:17:11]:File Data Send complete!
+[2023-02-21-21:17:40]:NOT PROCESSING 
+[2023-02-21-21:17:40]:SERVICE START
+[2023-02-21-21:17:41]:Start File Data Send!
+[2023-02-21-21:17:42]:Database Connetion Success.
+[2023-02-21-21:17:42]:IPADDR READ SUCCESS!
+[2023-02-21-21:17:42]:DB disconnetcion Success!
+[2023-02-21-21:17:42]:[348]File Search complete
+[2023-02-21-21:17:42]:[0011]Send data Format complete
+[2023-02-21-21:17:42]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:17:42]:[0011]send start!
+[2023-02-21-21:17:48]:SendDataHead0000169900112023022121170004290FSSW41000010                     W001102211721201                        000002940000012016930000012016931565
+[2023-02-21-21:17:48]:[RECVHEADER]=0000013409902023020715300002290FSSW41000030   20230203000000N000W099002070956201                        000002040000008352440000008352443756[size]=140
+[2023-02-21-21:17:48]:[0011]send Ok!
+[2023-02-21-21:17:48]:Socket Clsoed!
+[2023-02-21-21:17:48]:File Data Send complete!
+[2023-02-21-21:18:21]:NOT PROCESSING 
+[2023-02-21-21:18:21]:SERVICE START
+[2023-02-21-21:18:22]:Start File Data Send!
+[2023-02-21-21:18:22]:Database Connetion Success.
+[2023-02-21-21:18:22]:IPADDR READ SUCCESS!
+[2023-02-21-21:18:22]:DB disconnetcion Success!
+[2023-02-21-21:18:22]:[348]File Search complete
+[2023-02-21-21:18:23]:[0011]Send data Format complete
+[2023-02-21-21:18:23]:/127.0.0.1:60001:Socket Connect SUCCESS!!
+[2023-02-21-21:18:23]:[0011]send start!
+[2023-02-21-21:18:28]:SendDataHead0000169900112023022121180002290FSSW41000010                     W001102211721201                        000002940000012016930000012016931565
+[2023-02-21-21:18:28]:[RECVHEADER]=0000013409902023020715300002290FSSW41000030   20230203000000N000W099002070956201                        000002040000008352440000008352443756[size]=140
+[2023-02-21-21:18:28]:[0011]send Ok!
+[2023-02-21-21:18:28]:Socket Clsoed!
+[2023-02-21-21:18:28]:File Data Send complete!

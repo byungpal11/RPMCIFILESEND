@@ -142,7 +142,8 @@ public class socketcontrol {
 			Headerdata = str + str1.substring(0, size - 2);
 			datalen = Headerdata.length();
 			Checkdata = str1.substring(53, 56);
-
+            
+		
 			if (datalen == 140 && Checkdata.equals("000")) {
 				result = 1;
 

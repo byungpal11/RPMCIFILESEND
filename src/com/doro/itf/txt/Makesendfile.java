@@ -27,7 +27,7 @@ public class Makesendfile extends Thread {
 	public DBService Dbs = null;
 	public SendData SData = null;
 	public Property py = null;
-	
+
 	public static int value;
 	public static char Systemcode = 'W';
 
@@ -58,7 +58,7 @@ public class Makesendfile extends Thread {
 		int ICcount = Dbs.SendICcount(); // 보낼영업소 갯수 읽어오기
 		int WLdatacount = Dbs.WLDatacount();
 		List<String> WLdata = new ArrayList<String>();
-	    List<String> ICcode = new ArrayList<String>();
+		List<String> ICcode = new ArrayList<String>();
 		WLdata = Dbs.WLDataselect();
 		ICcode = Dbs.ICDataselect();
 		String WLNUM = "203";
@@ -101,7 +101,7 @@ public class Makesendfile extends Thread {
 		List<String> ICcode = new ArrayList<String>();
 		int ICcount = Dbs.SendICcount(); // 보낼영업소 갯수 읽어오기
 		int BLdatacount = Dbs.BLDatacount();
-		BLdata =Dbs.BLDataselect();
+		BLdata = Dbs.BLDataselect();
 		ICcode = Dbs.ICDataselect();
 		String BLNUM = "201";
 		Date date = new Date(System.currentTimeMillis());
@@ -117,7 +117,6 @@ public class Makesendfile extends Thread {
 			FileName = Systemcode + ICcode.get(i).toString() + Nowdate + BLNUM;
 			Path = "D:\\FILESEND/BLDATA/" + FileName;
 			File file = new File(Path);
-	
 
 			fos = new FileOutputStream(Path);
 			osw = new OutputStreamWriter(fos, "euc-kr");
@@ -146,21 +145,22 @@ public class Makesendfile extends Thread {
 
 		try {
 			Dbs.DBstart();
-			if (value == 2) {	
+			if (value == 2) {
 
 				WLMakefile();
-				//SData = new SendData(value);
-				//SData.dostart();
+				// SData = new SendData(value);
+				// SData.dostart();
 			} else if (value == 1) {
 				Dbs.BLTempTableCrate();
 				Dbs.BLdataDel();
 				Dbs.InsertBLMaster();
-			    BLMakefile();
-				//SData = new SendData(value);
-				//SData.dostart();
+				BLMakefile();
+				// SData = new SendData(value);
+				// SData.dostart();
 
 			}
 			Dbs.DBclose();
+			stopThread();
 
 		} catch (IOException e) {
 
@@ -174,6 +174,7 @@ public class Makesendfile extends Thread {
 		} finally {
 			stopThread();
 		}
+
 	}
 
 	public void run() {
