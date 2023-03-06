@@ -30,14 +30,14 @@ public class WatchDog extends Thread {
 			try {
 				
 				if (sv == null) {
-					log.WriteLog("NOT PROCESSING ", false);
+					log.WriteLog("NOT PROCESSING ", true);
 					sv = new Service();
 				}
 				if (!sv.isAlive() || !sv.isRunnable()) {
 					sv = null;
 					sv = new Service();
 					sv.dostart();
-					log.WriteLog("SERVICE START", false);
+					log.WriteLog("SERVICE START", true);
 				}
 
 			} catch (Exception e) {

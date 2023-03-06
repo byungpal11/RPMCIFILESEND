@@ -41,12 +41,12 @@ public class Service extends Thread {
 		SimpleDateFormat fourteen_format = new SimpleDateFormat("HHmmss");
 		String HOUR = fourteen_format.format(date.getTime());
 
-		if (sd == null) {
+		// if (sd == null) {
 
-			sd = new SendData(1);
-			sd.dostart();
-			System.out.println("m_start");
-		}
+		// 	sd = new SendData(1);
+		// 	sd.dostart();
+		// 	System.out.println("m_start");
+		// }
 		
 		if (HOUR.equals("175000")) {
 			mk1 = new Makesendfile(1);
