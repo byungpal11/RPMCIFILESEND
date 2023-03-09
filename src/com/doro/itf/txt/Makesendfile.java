@@ -12,11 +12,11 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import com.doro.itf.Files.SendData;
 import com.doro.itf.db.DBService;
 
 import com.doro.itf.log.LogMgr;
 import com.doro.itf.properties.Property;
+import com.doro.itf.socket.SendData;
 
 public class Makesendfile extends Thread {
 

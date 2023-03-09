@@ -3,8 +3,9 @@ package com.doro.itf.control;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import com.doro.itf.Files.SendData;
+
 import com.doro.itf.log.LogMgr;
+import com.doro.itf.socket.SendData;
 import com.doro.itf.txt.Makesendfile;
 
 public class Service extends Thread {

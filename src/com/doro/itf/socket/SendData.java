@@ -1,4 +1,4 @@
-package com.doro.itf.Files;
+package com.doro.itf.socket;
 
 import java.io.File;
 import java.io.IOException;
@@ -7,10 +7,10 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.doro.itf.Files.Filecontrol;
 import com.doro.itf.db.DBService;
 import com.doro.itf.log.LogMgr;
 import com.doro.itf.properties.Property;
-import com.doro.itf.socket.socketcontrol;
 
 public class SendData extends Thread {
 
